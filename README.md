@@ -5,4 +5,4 @@ Scrapes data from a website and parses it into a csv file. This script is based 
 
 Documentations for *Beautiful Soup* can be found here: https://www.crummy.com/software/BeautifulSoup/bs4/doc/#find-all
 The website that I'm scraping in this example is: Lexikon Japans Studierende provided by the Staatsbibliothek Berlin: https://themen.crossasia.org/japans-studierende/index/show
-It is a database that lists the names of Japanese students who studied abroad at German universities and higher education institutions from 1868–1914.
+It is a database that lists the names of Japanese students who studied abroad at German universities and other higher education institutions from 1868–1914.
