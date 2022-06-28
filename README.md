@@ -11,6 +11,5 @@ It is a database that lists the names of Japanese students who studied abroad at
 
 ### PeaceTreaties (one page)
 This notebook is based on a database focused on European peace treaties from 1450 to 1789 (https://www.ieg-friedensvertraege.de/vertraege).
-The notebook also contains code for re-structuring the data to make it usable for network visualisation.
 
 The database was created as part of a project that was funded by the DFG (German Research Foundation) and contains a selection of some 1800 treaties.
