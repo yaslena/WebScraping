@@ -1,5 +1,5 @@
 # WebScraping
-Before you start your own webscraping project, make sure that you respect effective copyright restrictions. Different countries have different perspectives on the legal side of web scraping and web crawling. Read the "Note of caution" below for more details.
+Before you start your own webscraping project, make sure that you respect effective copyright restrictions. Different countries have different perspectives on the legal side of web scraping and web crawling. Read the section on "Responsible scraping" below for more details.
 
 This repository contains a set of Jupyter notebooks written in python for scraping data from websites and creating a csv file from it.
 
