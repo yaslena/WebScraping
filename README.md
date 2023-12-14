@@ -25,3 +25,9 @@ It is a database that lists the names of Japanese students who studied abroad at
 This notebook is based on a database focused on European peace treaties from 1450 to 1789 (https://www.ieg-friedensvertraege.de/vertraege).
 
 The database was created as part of a project that was funded by the DFG (German Research Foundation) and contains a selection of some 1800 treaties.
+
+### UkrainianMigrants (multiple pages)
+
+This notebook was originally created as part of an online lecture (delivered in June 2023) for first-year students attending a class called "Computer tools for historians" at the History Department of the National University of Kyiv-Mohyla Academy (NaUKMA) in Kyiv, Ukraine.
+
+The database used in this notebook was created by Library and Archives Canada. It provides access to references to Ukrainian immigrants who arrived in Canada between 1891 and 1930 mostly based on passenger lists held at Library and Archives Canada for the Canadian ports of Halifax, Nova Scotia; Montréal and Québec, Quebec; and Saint John, New Brunswick, and for the American ports of New York, New York; and Portland, Maine (https://www.bac-lac.gc.ca/eng/discover/immigration/immigration-records/immigrants-ukraine-1891-1930/Pages/introduction.aspx#c).
